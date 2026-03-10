@@ -4,8 +4,8 @@
 - **Company Name:** Meubles sans Regret satisfaire ou rembourser
 - **Directory:** meubles_sans_regret_satisfaire_ou_rembourser
 - **Address/Contact:** 
-  - Abidjan, C�te d'Ivoire
-  - Coordonn�es
+  - Abidjan, Céte d'Ivoire
+  - Coordonnées
   - 
   - +225 0759936669
   - 
