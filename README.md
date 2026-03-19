@@ -53,7 +53,7 @@ Accès Admin direct : `localhost:5173/admin` (après connexion)
 
 **Meubles sans Regret satisfaire ou rembourser**
 * **Localisation :** Abidjan, Côte d'Ivoire
-* **Contact :** +225 0759936669
+* **Contact :** +225 075 993 666 9
 * **Email :** contact@meublessansregretsatisfaireourembourser.cm
 * **Social :** [Facebook](https://facebook.com) | [WhatsApp](https://wa.me/2250759936669)
 

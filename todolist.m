@@ -4,15 +4,9 @@
 - **Company Name:** Meubles sans Regret satisfaire ou rembourser
 - **Directory:** meubles_sans_regret_satisfaire_ou_rembourser
 - **Address/Contact:** 
-  - Abidjan, Céte d'Ivoire
-  - Coordonnées
-  - 
-  - +225 0759936669
-  - 
-  - angepaul628@gmail.com
-  - 
-  - +225 59 93 66 69
-- **Description:** https://www.facebook.com/profile.php?id=100065188432709
+  - Abidjan, Côte d'Ivoire
+  - +225 075 993 666 9
+- **Description::** https://www.facebook.com/profile.php?id=100065188432709
 - **Social Media:** 
 - **Logo Asset:** _To be sourced/created_
 
